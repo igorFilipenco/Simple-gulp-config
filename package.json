@@ -1,0 +1,36 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "testing task from frontend developer",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.6.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^2.0.11",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.1",
+    "gulp-watch": "^4.3.11",
+    "gulp-webserver": "^0.9.1",
+    "jquery": "^3.1.1",
+    "require-dir": "^0.3.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.7.0"
+  },
+  "author": "Igor Filipenco",
+  "license": "MIT"
+}
