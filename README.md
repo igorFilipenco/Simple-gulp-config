@@ -6,10 +6,12 @@ Config includes such libraries and frameworks as Bootstrap, Jquery and Fonts Awe
 
 In order to launch project, make:
 
-1. git clone of this project
+1. git clone project
 
-2. in project's directory perform 'npm init'
+2. in project's directory perform 'npm install'
 
-3. enter localhost:3000(you can customize adress in file start-server.js
+3. 'npm start'
+
+4. enter localhost:3000(you can customize adress in file start-server.js
    which is located in gulp_tasks folder)
 
