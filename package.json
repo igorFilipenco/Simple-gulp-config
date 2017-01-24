@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.6",
+    "crayon-terminal": "^3.0.1",
     "font-awesome": "^4.7.0"
   },
   "author": "Igor Filipenco",
